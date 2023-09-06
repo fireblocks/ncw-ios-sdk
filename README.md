@@ -1,4 +1,6 @@
 # FireblocksSDK
 
 Fireblocks SDK for iOS
-Version 0.0.12
+Version 1.0.0
+
+
