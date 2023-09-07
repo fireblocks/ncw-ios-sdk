@@ -14,6 +14,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "FireblocksSDK", url: "https://static.fireblocks.io/downloads/FireblocksSDK.xcframework.zip", checksum: "8a2ac2ac806af7f3416a54df03b1de16082f4e6a57e4c55ddb95247ca73f8899"),
+        .binaryTarget(name: "FireblocksSDK", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/1.0.1/FireblocksSDK.xcframework.zip", checksum: "8419adabfd3a7bbce40e2fae7790dec32a8ade883d0e6371dacd86deaa75a260"),
     ]
 )
