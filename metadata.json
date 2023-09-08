@@ -1,1 +1,9 @@
-{"bundleDisplayName":"FireblocksSDK","bundleIdentifier":"com.fireblocks.Fireblocks","schemaVersion":{"major":0,"minor":1,"patch":0}}
+{
+  "bundleDisplayName": "FireblocksSDK",
+  "bundleIdentifier": "com.fireblocks.Fireblocks",
+  "schemaVersion": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
