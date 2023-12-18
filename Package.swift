@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "FireblocksSDK", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.0.0/iOS-FireblocksSDK.zip", checksum: "5aa165ba00ecc19ddab2908f3e28a8e7c71b60e35247e1985d2e45d32c0bcd53"),
+        .binaryTarget(name: "FireblocksSDK", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.1.0/iOS-FireblocksSDK.zip", checksum: "da023e4c6abe51bbc9cb16cf6f3b092fbfca9bbe9ff04b431bc0ce656073cb68"),
         .binaryTarget(name: "MPCFBFramework", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/1.0.4/iOS-MPCFBFramework.zip", checksum: "42ab175ddabb39f3effb61636b73f560d176dcbd0a1dd5cb2c2255c661ab5148"),
     ]
 )
