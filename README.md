@@ -2,7 +2,11 @@
 
 Fireblocks NCW iOS SDK 
 
-Version 1.0.0
+Version 2.3.0
 
-Developer Documentation: https://ncw-developers.fireblocks.com/docs
+In version 2.3.0, we made significant performance improvements in key generation and transactions.
+
+For additional tips on enhancing overall performance, refer to our documentation: https://ncw-developers.fireblocks.com/docs/performance-best-practice 
+
+Fireblocks Non-Custodial Wallet (NCW) Developer Documentation: https://ncw-developers.fireblocks.com/docs
 
