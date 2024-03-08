@@ -2,9 +2,9 @@
 
 Fireblocks NCW iOS SDK 
 
-Version 2.3.7-beta-2
+Version 2.3.7-beta-3
 
-In version 2.3.7-beta-2, we made significant performance improvements in key generation and transactions.
+In version 2.3.7-beta-3, we made significant performance improvements in key generation and transactions.
 
 For additional tips on enhancing overall performance, refer to our documentation: https://ncw-developers.fireblocks.com/docs/performance-best-practice 
 
