@@ -2,9 +2,9 @@
 
 Fireblocks NCW iOS SDK 
 
-Version 2.3.7-beta-5
+Version 2.4.0-beta-1
 
-In version 2.3.7-beta-5, we made significant performance improvements in key generation and transactions.
+Version 2.4.0-beta-1 is now supporting both EdDSA and ECDSA algorithms.
 
 For additional tips on enhancing overall performance, refer to our documentation: https://ncw-developers.fireblocks.com/docs/performance-best-practice 
 
