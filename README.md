@@ -2,5 +2,5 @@
 
 Fireblocks NCW iOS SDK 
 
-Version 2.3.7-beta6
+Version 2.4.1-beta1
 
