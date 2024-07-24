@@ -9,12 +9,13 @@ let package = Package(
     products: [
         .library(
             name: "FireblocksSDK",
-            targets: ["FireblocksSDK", "MPCFBFramework"]),
+            targets: ["FireblocksSDK"]),
+//        targets: ["FireblocksSDK", "MPCFBFramework"]),
     ],
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "FireblocksSDK", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.7.0-beta3/iOS-FireblocksSDK.zip", checksum: "08df6a3397e8d8d30fb1e41ab3e27994f4808770de41f589032ef92ee97c216e"),
-        .binaryTarget(name: "MPCFBFramework", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.7.0-beta2/iOS-MPCFBFramework.zip", checksum: "0ee959a4b6cbe1792552f8db79c7528eda23aac2192c39f4d4e2e80498e18d55")
+        .binaryTarget(name: "FireblocksSDK", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.7.0-beta4/iOS-FireblocksSDK.zip", checksum: "eaae337b4fb05575f2f734ddeae489d69cc0fe1c60d8aad15e9e3971b7c410d1"),
+//        .binaryTarget(name: "MPCFBFramework", url: "https://github.com/fireblocks/ncw-ios-sdk/releases/download/2.7.0-beta2/iOS-MPCFBFramework.zip", checksum: "0ee959a4b6cbe1792552f8db79c7528eda23aac2192c39f4d4e2e80498e18d55")
     ]
 )
