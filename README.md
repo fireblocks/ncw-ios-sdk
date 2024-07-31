@@ -2,16 +2,15 @@
 
 Fireblocks NCW iOS SDK 
 
-What's new in 2.6.0
+What's new in 2.7.0
 
-In version 2.6.0, we’ve introduced a few major enhancements.
+In version 2.7.0, we’ve introduced a few major enhancements.
 
-1. Direct reporting of errors to Fireblocks. This will ease the process of supporting and debugging issues in the future. More information can be found here https://ncw-developers.fireblocks.com/docs/ncw-sdk-telemetry-collection
+1. Resolved an issue when trying to sign a transaction that has failed or will fail before it can even be signed.
 
-2. Our MPC ceremony processes have been enhanced for greater robustness. MPC messages will now undergo multiple retry attempts before failing.
+2. Improved error reporting to Fireblocks
 
-3. Unexpected device errors will now result in the expected messaging, and not in a timeout.
-
+3. Improved error visibility: wrong passphrase in the recovery process is now explicitly mentioned in the returned error as WRONG_RECOVERY_PASSPHRASE (603)
 
 iOS SDK Documentation 
 
