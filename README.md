@@ -2,9 +2,9 @@
 
 Fireblocks NCW iOS SDK 
 
-What's new in 2.7.0
+What's new in 2.7.1
 
-In version 2.7.0, we’ve introduced a few major enhancements.
+In version 2.7.1, we’ve introduced a few major enhancements.
 
 1. Resolved an issue when trying to sign a transaction that has failed or will fail before it can even be signed.
 
