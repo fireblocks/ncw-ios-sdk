@@ -2,16 +2,24 @@
 
 Fireblocks NCW iOS SDK 
 
-What's new in 2.7.1
+Release Notes: Version 2.8.0
 
-In version 2.7.1, we’ve introduced a few major enhancements.
+Release Date: September 4th, 2024
 
-1. Resolved an issue when trying to sign a transaction that has failed or will fail before it can even be signed.
+Major Enhancements:
 
-2. Improved error reporting to Fireblocks
+1. Enhanced Performance Optimization:
+   - Improved execution speed and reduced latency for high-demand operations.
+   - Refined memory management for better stability and efficiency.
+2. Advanced Data Processing:
+   - Optimized algorithms for reduced computational overhead.
+   
+New Features:
+1. Improved Error Handling:
+   - More detailed error messages and diagnostics to facilitate quicker debugging.
+   - Added support for custom error handlers and logging mechanisms.
+   
+Bug Fixes:
+- Addressed stability issues reported in previous versions.
 
-3. Improved error visibility: wrong passphrase in the recovery process is now explicitly mentioned in the returned error as WRONG_RECOVERY_PASSPHRASE (603)
-
-iOS SDK Documentation 
-
-https://ncw-developers.fireblocks.com/docs/ios-sdk
+For a detailed list of changes, improvements, and migration instructions, please consult the updated documentation at https://ncw-developers.fireblocks.com/docs/ios-sdk
