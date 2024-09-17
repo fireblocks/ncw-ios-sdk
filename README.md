@@ -2,9 +2,9 @@
 
 Fireblocks NCW iOS SDK 
 
-Release Notes: Version 2.8.1
+Release Notes: Version 2.8.2
 
-Release Date: September 10th, 2024
+Release Date: September 17th, 2024
 
 Major Enhancements:
 
